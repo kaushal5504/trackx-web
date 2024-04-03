@@ -1,0 +1,276 @@
+[
+{
+"title":"Current Affairs and its Impact on Stock Market",
+"author":"Rachna Ranade",
+"type":"free",
+"category":"video",
+"image_url":"https://i.ytimg.com/vi/NkV0_6cT_eI/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDo6jIz12w-gRiJpohEMHlfvddUbA",
+"link":"https://youtube.com/playlist?list=PL8uhW8cclMiOdjuzO7o3fnc9DLkgb4mWj"
+},
+
+{
+"title":"Business Case Studies",
+"author":"Think School",
+"type":"free",
+"category":"video",
+"image_url":"https://i.ytimg.com/vi/YRYLPeWCOP0/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDYL4ku5WYW7o-s4xR9TOmfFw4wXQ",
+"link":"https://youtube.com/playlist?list=PLGwmAEmjn4fmL_kCTOR-N4fXOlXvLa8dG"
+},
+
+{
+"title":"7 Banking Tips for Young Millennials",
+"author":"Stillman Bank",
+"type":"free",
+"category":"blog",
+"image_url":"https://img.freepik.com/free-vector/linear-flat-internet-banking-infographics-template-icons-website-hero-image-vector-illustration_126523-2982.jpg?w=826&t=st=1679999756~exp=1680000356~hmac=850f20ede22949a04b45421c837f2f289d01854708834dc6c6833246c3ab4579",
+"link":"https://www.stillmanbank.com/finance/7-banking-tips-young-millennials/"
+},
+
+
+{
+"title":"How stock market works",
+"author":" ADAM HAYES",
+"type":"free",
+"category":"article",
+"image_url":"https://img.freepik.com/free-vector/investment-data-concept-illustration_114360-5159.jpg?w=740&t=st=1679912502~exp=1679913102~hmac=154296465de93bb38fd02ec88f1553bfe2a611c25e42e7db806f06fca820ad96",
+"link":"https://www.investopedia.com/articles/investing/082614/how-stock-market-works.asp"
+},
+
+{
+"title":"Corporate Finance Online",
+"author":"Aswath Damodaran",
+"type":"free",
+"category":"video",
+"image_url":"https://i.ytimg.com/vi/6oaw9U973s8/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCOfeMMVSmftTNrAlo4wooFQdHokQ",
+"link":"https://youtube.com/playlist?list=PLUkh9m2BorqnDenjSLZ2DHIXrdxoN4Bn_"
+},
+
+{
+"title":"Corporate Finance Articles",
+"author":"Mark George",
+"type":"free",
+"category":"article",
+"image_url":"https://img.freepik.com/free-photo/spreadsheet-document-financal-report-concept_53876-132323.jpg?w=900&t=st=1679917815~exp=1679918415~hmac=8bd1f562b9055da341a0a3293ac78876848827ce3b8030f45f86171e533efaf4",
+"link":"https://managementstudyguide.com/corporate-finance-articles.htm"
+},
+
+{
+"title":"Personal Finance",
+"author":"Investopedia",
+"type":"free",
+"category":"blog",
+"image_url":"https://img.freepik.com/free-vector/personal-finance-concept-illustration_114360-5523.jpg?w=996&t=st=1679913696~exp=1679914296~hmac=230bac9e3ea5ad9cdff9ec58cf27cd7c97c55acafa0b4f243630786488bb20da",
+"link":"https://www.investopedia.com/personal-finance-4427760"
+},
+
+
+{
+"title":"SEVEN Things You NEED To Learn for Your Financial FREEDOM",
+"author":"Robert Kiyosaki",
+"type":"free",
+"category":"video",
+"image_url":"https://i.ytimg.com/vi/zNTNWQmf1DE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBXiUam0XGhUh4mT9f9_lmChAI5JQ",
+"link":"https://youtu.be/zNTNWQmf1DE"
+},
+
+{
+"title":"Share Market Mastery",
+"author":"Pushkar Raj Thakur",
+"type":"free",
+"category":"video",
+"image_url":"https://i.ytimg.com/vi/by9_zHQzeZk/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCNgiQaAdiVDd6lstJZlZ-8uTgYzQ",
+"link":"https://youtube.com/playlist?list=PLxNHpNhDaEFJ8vaGyZ0w8bAaPUUIkO6Rx"
+},
+
+{
+"title":"All About Insurance",
+"author":"ET Money",
+"type":"free",
+"category":"video",
+"image_url":"https://i.ytimg.com/vi/iuar13NTPD0/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAAN0yZv5Jy4l_leb40jc0Od_snPQ",
+"link":"https://youtube.com/playlist?list=PLeKo6nJG1Qj0_6wcURRDhplIvtFJ3GjB5"
+},
+
+{
+"title":"Life Insurance",
+"author":"Michael Quinn",
+"type":"free",
+"category":"blog",
+"image_url":"https://img.freepik.com/free-vector/father-shaking-hands-with-insurance-agent_74855-4412.jpg?w=740&t=st=1679916993~exp=1679917593~hmac=2c01043dcf1549b99a02638aaf2bfad30bed43caaba21b4f9604f5e9eecac21c",
+"link":"https://www.lifeinsuranceblog.net/blog/"
+},
+
+{
+"title":"Top 5 INSURANCE POLICIES You Must Have",
+"author":"Gurleen Kaur Tikku",
+"type":"free",
+"category":"video",
+"image_url":"https://i.ytimg.com/vi/-8lqsYFGJhk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFTyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD4A3RHv2wnZT8tDAH_rheBORoIVg",
+"link":"https://youtu.be/-8lqsYFGJhk"
+},
+
+{
+"title":"Bitcoin & Cryptocurrency Knowledge",
+"author":"Pushkar Raj Thakur",
+"type":"free",
+"category":"video",
+"image_url":"https://i.ytimg.com/vi/cUBM8PpIbPk/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCoewk0Q9vZqtpELKaIsDn_2SLDlg",
+"link":"https://youtube.com/playlist?list=PLxNHpNhDaEFJRuw0IWj7w0nruuFFoYyQu"
+},
+
+{
+"title":"What is cryptocurrency and how does it work?",
+"author":"Kaspersky",
+"type":"free",
+"category":"article",
+"image_url":"https://www.kaspersky.com/content/en-global/images/repository/isc/2021/cryptocurrency_image1_1130490519_670x377px_300dpi.jpg",
+"link":"https://www.kaspersky.com/resource-center/definitions/what-is-cryptocurrency"
+},
+
+{
+"title":"Investment Management",
+"author":"K L Swami",
+"type":"free",
+"category":"blog",
+"image_url":"https://s40424.pcdn.co/in/wp-content/uploads/2023/02/Screenshot-2023-02-23-182638.png",
+"link":"https://emeritus.org/in/learn/finance-investment-management/#:~:text=Investment%20management%20is%20the%20process,%2C%20risk%20profile%2C%20and%20timeframes."
+},
+
+{
+"title":"FUNDAMENTALS OF INVESTMENT",
+"author":"Shashi Aggarwal",
+"type":"free",
+"category":"video",
+"image_url":"https://img.freepik.com/free-vector/woman-examining-banknote-man-counting-coins-illustration_1262-18985.jpg?w=996&t=st=1679914520~exp=1679915120~hmac=37cfcccdffe5899411c9af641ead4c065b2abe9505af0213db276a0985610798",
+"link":"https://youtube.com/playlist?list=PL9w1NV68V201Mkt97ehr06TnkndG-xyS8"
+},
+
+{
+"title":"Alternate Investments",
+"author":"Rachana Ranade",
+"type":"free",
+"category":"video",
+"image_url":"https://i.ytimg.com/vi/yO1iIHJo-28/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB0X3I0iEZgKFStJ5-BjiqsgdQPLg",
+"link":"https://youtube.com/playlist?list=PL8uhW8cclMiOQKl7eV14VN6Pk-uRdUsYO"
+},
+
+{
+"title":"Financial Risk Management",
+"author":"Kaplan Schweser",
+"type":"free",
+"category":"article",
+"image_url":"https://img.freepik.com/free-photo/graph-business-financial-investment-risk-word_53876-14479.jpg?w=900&t=st=1679918070~exp=1679918670~hmac=006b594a20812883e4e8e6b9c9006f2c1da9f4e62c1a39a8e36fe9eaf2c76bf0",
+"link":"https://www.schweser.com/frm/blog/become-a-financial-risk-manager/financial-risk-management-everything-you-need-to-know"
+},
+
+{
+"title":"A Study on Mutual Funds –What are they and their Future",
+"author":"Kisari Madhulika",
+"type":"free",
+"category":"article",
+"image_url":"https://img.freepik.com/free-photo/stacks-coins-arranged-bar-graph_35913-2518.jpg?w=1060&t=st=1679996692~exp=1679997292~hmac=9a14c31fe7a773930040d310c8fc8345297cdcc19adfc0ec2c47674ade72340b",
+"link":"https://ijirt.org/master/publishedpaper/IJIRT153815_PAPER.pdf"
+},
+
+{
+"title":"Mutual Funds",
+"author":"Rachana Ranade",
+"type":"free",
+"category":"video",
+"image_url":"https://i.ytimg.com/vi/sbaMMXSAnT0/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAHVuBQiFBqC71_ofrp7gf0bdNRcg",
+"link":"https://youtube.com/playlist?list=PL8uhW8cclMiPb4nbQrl7YoZpwiXiyHQke"
+},
+
+{
+"title":"Online Shopping – 11 Tips to Save Money",
+"author":"Nitin Bhatia",
+"type":"free",
+"category":"article",
+"image_url":"https://img.freepik.com/free-vector/add-cart-concept-illustration_114360-1445.jpg?w=740&t=st=1679997686~exp=1679998286~hmac=fc64e743f5014a6f6c991896f125fe167a7dee5665ce7a832ac5bcb7ee263829",
+"link":"https://www.nitinbhatia.in/personal-finance/online-shopping-tips-save-money/"
+},
+
+{
+"title":"What Is a Loan, How Does It Work, Types, and Tips on Getting One",
+"author":"JULIA KAGAN",
+"type":"free",
+"category":"article",
+"image_url":"https://img.freepik.com/free-photo/loan-buy-house-pressure-buy-house_1205-11224.jpg?w=996&t=st=1679998002~exp=1679998602~hmac=28e63d19608e888d60a8c6985427c4c1c20d76aec75328384fc8972f130ba8f6",
+"link":"https://www.investopedia.com/terms/l/loan.asp"
+},
+
+{
+"title":"Personal loan and how does it work",
+"author":"Darlington Academy",
+"type":"free",
+"category":"video",
+"image_url":"https://img.freepik.com/free-vector/bank-credit-finance-management-loan-agreement-signing-mortgage-money-credit_335657-3136.jpg?w=996&t=st=1679998295~exp=1679998895~hmac=283e14adefa878262d9e8a0561530906027e481f2f952059ca2c6c4a1dc58e50",
+"link":"https://youtu.be/tb6xbFp9Zfs"
+},
+
+{
+"title":"What is G.S.T|Types of GST|GST Return|GSTIN",
+"author":"Khan Sir",
+"type":"free",
+"category":"video",
+"image_url":"https://i.ytimg.com/vi/-oLWs6Z9W30/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBTAvsK4tWL1ga9ImquO9oF-pGiHw",
+"link":"https://youtu.be/-oLWs6Z9W30"
+},
+
+
+{
+"title":"Tax planning for Individuals",
+"author":"CA Rachana Ranade",
+"type":"free",
+"category":"video",
+"image_url":"https://i.ytimg.com/vi/A_JQK_k4Kyc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDvl91yb2A2TW1IxA74ZKwdMrzaiA",
+"link":"https://youtu.be/A_JQK_k4Kyc"
+},
+
+{
+"title":"Income Tax E-Filing",
+"author":"Deb P Samaddar",
+"type":"free",
+"category":"blog",
+"image_url":"https://d3po6s2ufk88fh.cloudfront.net/1020x680/blog/76812588ac8b4911b7eb974dccc9e9d4.jpg",
+"link":"https://insider.finology.in/tax/income-tax-efiling"
+},
+
+
+{
+"title":"How to save tax on salary in India?",
+"author":"Yashika Katyal",
+"type":"free",
+"category":"blog",
+"image_url":"https://d3po6s2ufk88fh.cloudfront.net/1020x680/blog/fa53b5d315e14db3b1b9d86e6f22057f.jpg",
+"link":"https://insider.finology.in/tax/how-to-save-tax-on-salary"
+},
+
+{
+"title":"What is Credit Risk?",
+"author":"Dheeraj Vaidya",
+"type":"free",
+"category":"blog",
+"image_url":"https://img.freepik.com/free-vector/gradient-credit-assessment-concept_52683-76915.jpg?w=996&t=st=1680000583~exp=1680001183~hmac=6a1d2a71172809180c2d047e47df32536a3936ff7a8ac937939c408cef88dee1",
+"link":"https://www.wallstreetmojo.com/credit-risk/"
+},
+
+{
+"title":"Investing Abroad",
+"author":"Rachana Phadke Ranade",
+"type":"free",
+"category":"video",
+"image_url":"https://i.ytimg.com/vi/E4O1-QW_SrY/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDUffFX87hXH0PrgpcTKMgVccL53w",
+"link":"https://youtube.com/playlist?list=PL8uhW8cclMiO2Kvqr1AnuWjyOY5Qw7nEB"
+},
+
+{
+"title":"Reasons to Use a Budgeting App to Manage Your Finances",
+"author":"TJ Porter",
+"type":"free",
+"category":"article",
+"image_url":"https://img.freepik.com/free-vector/accountant-online-service-platform-professional-bookkeeper-tax-calculating-financial-analysis-mobile-app-vector-illustration_613284-770.jpg?w=740&t=st=1680001258~exp=1680001858~hmac=dedc9b1ba9508dea96274ef135736ac7fb43e96e30370ab6abb4a7fe699895a5",
+"link":"https://www.moneycrashers.com/reasons-use-budgeting-app-manage-finances/"
+},
+
+]
